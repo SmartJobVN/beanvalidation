@@ -10,6 +10,13 @@
     <name>Spring Web MVC - Hibernate Validator SmartJob.vn</name>
     <url>http://smartjob.vn/</url>
 
+    <developers>
+        <developer>
+            <name>Do Nhu Vy</name>
+        </developer>
+    </developers>
+
+
     <dependencies>
 
         <dependency>
